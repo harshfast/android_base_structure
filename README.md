@@ -1,1 +1,1 @@
-# android_base_structure
+# Android Template Project
